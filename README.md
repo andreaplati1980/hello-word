@@ -1,3 +1,3 @@
 # hello-word
 Primo esempio di utilizzo di github
-Stop provandi I'll primo commit, cheers è I'll modo in cui within nominations I salvataggi
+Sto provando il primo commit, che è il modo con cui github chiama i salvataggi.
